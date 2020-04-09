@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\model\\unet_fan\\output\\model.ckpt"
+all_model_checkpoint_paths: "D:\\model\\unet_fan\\output\\model.ckpt"
